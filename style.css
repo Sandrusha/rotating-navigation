@@ -135,6 +135,9 @@ nav ul li + li + li {
 nav ul li i {
   font-size: 20px;
   margin-right: 10px;
+}
+
+.fas {
   position: absolute;
   top: 50%;
   left: 50%;
