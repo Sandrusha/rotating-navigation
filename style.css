@@ -27,6 +27,7 @@ body::-webkit-scrollbar {
 
 .container.show-nav {
   transform: rotate(-20deg);
+  position: fixed;
 }
 
 .container.show-nav .nav {
